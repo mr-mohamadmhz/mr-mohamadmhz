@@ -65,7 +65,7 @@
 
 ### ☕ Buy Me a Coffee
 <div align="center">
-  <a href="http://www.coffeete.ir/mr.mohamadmhz">
+  <a href="http://www.coffeete.ir/mr.mohamadmhz" target="-blank">
     <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
   </a>
 </div>
