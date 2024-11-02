@@ -1,10 +1,6 @@
 <h1 align="center">
-  <samp>Hi there, I'm Mohammad Hosein 👋</samp>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=7F182B&center=true&vCenter=true&width=435&lines=Hello+there+!+👋;I'm+Mohammad+Hosein+Mohammadzade+...;A+Front-End+Developer;Nice+to+meet+you" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Front-End+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -12,6 +8,7 @@
 - 🎓 I'm a **Front-End Developer** with a strong background in building dynamic web applications.
 - 🔭 Currently working on a logistics project utilizing the **MERN Stack** to enhance supply chain management.
 - 🌱 Expanding my knowledge in **JavaScript** and continuously exploring new frameworks and tools.
+- 📫 You can contact me at mr.mohamadmhz@gmail.com
 
 ---
 
@@ -47,11 +44,6 @@
 
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 📬 Connect with Me
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mr.mohamadmhz@gmail.com)
 
 ---
 
