@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=500&color=7F182B&center=true&vCenter=true&width=500&lines=Hello+there+!+👋;I+,m+Mohammad+Hosein+Mohammadzade+...;A+Front-End+Developer;Nice+to+meet+you" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=500&color=7F182B&center=true&vCenter=true&width=500&lines=Hello+there+!+👋;I+,m+Mohammad+Hosein+Mohammadzade+...;A+Front-End+Developer;Nice+to+meet+you"     alt="Typing SVG" />
 </h1>
 
 ### 💻 About Me
@@ -58,5 +58,5 @@
 
 ### ☕ Buy Me a Coffee
 <a href="http://www.coffeete.ir/mr.mohamadmhz">
-    <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
+  <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
 </a>
