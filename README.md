@@ -6,6 +6,7 @@
 - 🎓 I'm a **Front-End Developer** with a strong background in building dynamic web applications.
 - 🔭 Currently working on a logistics project utilizing the **MERN Stack** to enhance supply chain management.
 - 🌱 Expanding my knowledge in **JavaScript** and continuously exploring new frameworks and tools.
+- 💬 Ask me about JavaScript , React 
 - 📫 You can contact me at mr.mohamadmhz@gmail.com
 
 ---
