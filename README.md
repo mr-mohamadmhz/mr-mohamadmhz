@@ -19,16 +19,16 @@
 
 ### 📊 My GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-mohamadmhz&theme=radical" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mohamadmhz&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mr-mohamadmhz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-mohamadmhz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-mohamadmhz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ### 🧰 Tools and Technologies
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
@@ -52,7 +52,9 @@
 ---
 
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=mr-mohamadmhz&color=blue&style=flat-square)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mr-mohamadmhz/count.svg?"  />
+</div>
 
 ---
 
