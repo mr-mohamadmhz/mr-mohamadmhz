@@ -16,7 +16,10 @@
 - **Tools & Version Control:** Git, GitHub, GitLab
 
 ---
+### ⏳ Wakatime stats
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr-mohamadmhz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 ### 📊 My GitHub Stats
 
 <div align="center">
