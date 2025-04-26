@@ -17,7 +17,8 @@
 
 ---
 ### ⏳ Wakatime stats
-[![wakatime](https://wakatime.com/badge/user/e9266275-7b16-44b2-bbcb-ff01fb09aaaa.svg)](https://wakatime.com/@e9266275-7b16-44b2-bbcb-ff01fb09aaaa)
+=for html <a href="https://wakatime.com/@e9266275-7b16-44b2-bbcb-ff01fb09aaaa"><img src="https://wakatime.com/badge/user/e9266275-7b16-44b2-bbcb-ff01fb09aaaa.svg"></a>---
+
 ---
 ### 📊 My GitHub Stats
 
