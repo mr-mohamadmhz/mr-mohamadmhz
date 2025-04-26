@@ -17,7 +17,7 @@
 
 ---
 ### ⏳ Wakatime stats
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr-mohamadmhz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr_mohamadmhz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### 📊 My GitHub Stats
